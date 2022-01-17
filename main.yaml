@@ -1,0 +1,16 @@
+# An employee record
+name: Nick
+job: Software Developer
+skill: I HAVE NO CLUE
+age: 11
+start_date: idk
+employed: True
+favorite_fruits:
+    - Apple
+    - Banana
+languages:
+   HTML: Good
+   JS: OK
+   PYTHON: OK
+   CSS: NEEDS WORK
+   YAML: JUST STARTED
